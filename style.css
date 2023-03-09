@@ -1,0 +1,123 @@
+/* body color */
+body
+{
+  background-color: #FFEDFC;
+}
+
+/* nav bar */
+.navigation
+{
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  background-color: #A9A9A9;
+  horizontal-align: middle;
+  margin: 0px;
+}
+
+/* nav buttons */
+.navbuttons 
+{
+    text-align: center;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 20px;
+    font-family: 'Serif', sans-serif;
+    color: #FFDCF8;
+    text-transform: normal;
+    letter-spacing: normal;
+}
+
+.navbuttons:hover
+{
+  cursor: pointer;
+  color: white;
+}
+
+
+/* header */
+.header1
+{
+  display: flex;
+  justify-content: center;
+  font-family: 'Serif', sans-serif;
+  font-size: 55px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+
+h4
+{
+  display: flex;
+  justify-content: center;
+  font-family: 'Serif', sans-serif;
+  font-size: 20px;
+  margin-top: 25px;
+}
+
+h2
+{
+  display: flex;
+  justify-content: center;
+  font-family: 'Serif', sans-serif;
+  font-size: 55px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+
+
+.homepage
+{
+  color: #FFDCF8;
+  background-color: #A9A9A9;
+  font-family: 'Serif', sans-serif;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.workpage
+{
+  color: #FFDCF8;
+  background-color: #A9A9A9;
+  font-family: 'Serif', sans-serif;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.appdev{
+  color: #9D3BCD
+}
+
+.gamedev{
+   color: #9D3BCD
+}
+
+.webdev{
+   color: #9D3BCD
+}
+
+/* about text */
+.about
+{
+  font-size: 40px;
+}
+
+.abouttext1
+{
+  font-family: 'Serif', sans-serif;
+  font-size: 25px;
+}
+
+
+
+
+
+
+
+
